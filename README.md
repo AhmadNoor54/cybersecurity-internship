@@ -9,7 +9,7 @@ A collection of practical tasks completed during my 4-week Cybersecurity Interns
 - **Week 4:** Upcoming
 
 ### Tools
-Kali Linux · VirtualBox/VMware · GitHub
+Kali Linux · VirtualBox/VMware
 
 ### Objective
 Develop practical cybersecurity skills through hands-on labs and technical tasks.
