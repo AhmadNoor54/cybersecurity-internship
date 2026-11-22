@@ -5,7 +5,7 @@ A collection of practical tasks completed during my 4-week Cybersecurity Interns
 ### Weekly Progress
 - **Week 1:** Kali Linux Installation in a Virtual Machine — Completed
 - **Week 2:** Reconnaissance and Footprinting with Kali Linux
-- **Week 3:** Upcoming
+- **Week 3:** John the Ripper and Hash Calculator
 - **Week 4:** Upcoming
 
 ### Tools
